@@ -22,3 +22,10 @@ Bu layihə, online mağazadan alınan məhsulların satınalma qeydlərinin yara
 ```plaintext
 test-cases/
 └── Login_and_Registration_Tests.pdf
+
+defects/
+└── Login_and_Registration_Defects_Report.csv
+
+reports/
+└── Login_Test_Run_Report.pdf
+└── Registration_Test_Run_Report.pdf
